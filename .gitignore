@@ -3,3 +3,4 @@ dump.rdb
 appendonly.aof
 *.env
 .idea
+.htpasswd
